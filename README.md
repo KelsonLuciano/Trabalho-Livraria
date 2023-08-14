@@ -35,5 +35,5 @@ Acesse a aplicação através do seu navegador:
 
 http://localhost/livraria-personalizada
 
-Créditos
+## Créditos
 Desenvolvido por Kelson Luciano.
