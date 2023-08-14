@@ -35,8 +35,5 @@ Acesse a aplicação através do seu navegador:
 
 http://localhost/livraria-personalizada
 
-## Contribuições
-Contribuições para este projeto não estão atualmente abertas. Como foi desenvolvido como parte de um projeto da sala, não são esperadas contribuições externas neste momento.
-
 Créditos
 Desenvolvido por Kelson Luciano.
